@@ -1,6 +1,5 @@
 🍔 Canteen Billing System
-A console-based canteen billing system built in Dart. 
-Manages student profile, applies VIP/wallet-based discount, displays the menu, and calculates the final bill.
+A console-based canteen billing system built in Dart. Manages student profile, applies VIP/wallet-based discount, displays the menu, and calculates the final bill.
 ![Dart](https://img.shields.io/badge/Language-Dart-0175C2?style=flat&logo=dart)
 ![Platform](https://img.shields.io/badge/Platform-VS%20Code-007ACC?style=flat&logo=visualstudiocode)
 ---
@@ -12,14 +11,12 @@ Manages student profile, applies VIP/wallet-based discount, displays the menu, a
 💰 Automatic bill calculation with discount applied
 ---
 🛠️ Tech Stack
-Tool	Purpose
-Dart	Core programming language
-VS Code	Development environment
+Dart — Core programming language
+VS Code — Development environment
 ---
 🚀 How to Run
 ```bash
-dart Application.dart on VS Code 
-dart run main.dart
+dart Application.dart
 ```
 > Make sure the [Dart SDK](https://dart.dev/get-dart) is installed.
 ---
