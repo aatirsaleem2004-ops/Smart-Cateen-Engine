@@ -17,6 +17,7 @@ VS Code	Development environment
 ---
 🚀 How to Run
 ```bash
+dart Application.dart on VS Code 
 dart run main.dart
 ```
 > Make sure the [Dart SDK](https://dart.dev/get-dart) is installed.
