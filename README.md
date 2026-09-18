@@ -1,5 +1,6 @@
 🍔 Canteen Billing System
-A console-based canteen billing system built in Dart. Manages student profile, applies VIP/wallet-based discount, displays the menu, and calculates the final bill.
+A console-based canteen billing system built in Dart. 
+Manages student profile, applies VIP/wallet-based discount, displays the menu, and calculates the final bill.
 ![Dart](https://img.shields.io/badge/Language-Dart-0175C2?style=flat&logo=dart)
 ![Platform](https://img.shields.io/badge/Platform-VS%20Code-007ACC?style=flat&logo=visualstudiocode)
 ---
